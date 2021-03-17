@@ -1,14 +1,6 @@
-# study-of-SQL
-빠르게 SQL 기본 문법 &amp; DB 개념 공부하기
+# Programmers-Kit
 
-#### Contents
-
-1. [Programmers-Kit](https://github.com/solidcellaMoon/study-of-SQL/tree/main/Programmers-Kit)
-2. Etc ...
-
-
-
-## Programmers-Kit
+[[Back]](https://github.com/solidcellaMoon/study-of-SQL)
 
 프로그래머스의 [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)로 MySQL 기본 문법 다지기.
 
