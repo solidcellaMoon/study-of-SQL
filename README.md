@@ -19,3 +19,6 @@
 5. [JOIN](https://github.com/solidcellaMoon/study-of-SQL/blob/main/Programmers-Kit/5.%20JOIN.md)
 6. [String, Date](https://github.com/solidcellaMoon/study-of-SQL/blob/main/Programmers-Kit/6.%20String%2C%20Date.md)
 
+
+## 해커랭크 SQL 문제집!
+[[링크]](https://www.hackerrank.com/domains/sql?filters%5Bskills%5D%5B%5D=SQL%20%28Basic%29)
