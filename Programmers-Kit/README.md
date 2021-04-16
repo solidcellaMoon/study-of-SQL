@@ -1,7 +1,5 @@
 # Programmers-Kit
 
-[[Back]](../)
-
 프로그래머스의 [SQL 고득점 Kit](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit)로 MySQL 기본 문법 다지기.
 
 1. [SELECT](./1.%20SELECT.md)
